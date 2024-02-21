@@ -1,4 +1,4 @@
-// Scanner de Doublons de Fichiers // 
+// Scanner de Doublons de Fichiers // \n
 Ce projet est un script Python qui permet de scanner un répertoire spécifié afin de trouver les fichiers en double, que ce soit par leur nom ou leur contenu. Une fois les doublons détectés, l'utilisateur a la possibilité de les supprimer tous en une seule fois.
 
 Fonctionnalités
